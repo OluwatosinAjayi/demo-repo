@@ -1,3 +1,3 @@
 # demo
 
-oluwatosin welcome to github
+oluwatosin welcome to git and hub!!
